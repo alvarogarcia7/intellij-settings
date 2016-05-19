@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="te" value="    @Test public void $name$(){&#10;    &#10;    org.hamcrest.MatcherAssert.assertThat($act$, org.hamcrest.Matchers.is($expected$));&#10;    }" description="inserts a new test method" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="tes" value="    @Test public void $name$(){&#10;    &#10;    org.hamcrest.MatcherAssert.assertThat($act$, org.hamcrest.Matchers.is($expected$));&#10;    }" description="state test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="act" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="expected" expression="" defaultValue="" alwaysStopAt="true" />
@@ -13,7 +13,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="tc" value="    @Test public void $name$(){&#10;    &#10;&#9;    sut.$act$()&#10;        org.mockito.Mockito.verify($collaborator$).$someMethod$();&#10;    }" description="test collaboration" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="tei" value="    @Test public void $name$(){&#10;    &#10;&#9;    sut.$act$()&#10;        org.mockito.Mockito.verify($collaborator$).$someMethod$();&#10;    }" description="interaction test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="act" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="collaborator" expression="" defaultValue="" alwaysStopAt="true" />
