@@ -13,7 +13,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="tei" value="    @Test public void $name$(){&#10;    &#10;&#9;    sut.$act$()&#10;        org.mockito.Mockito.verify($collaborator$).$someMethod$();&#10;    }" description="interaction test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="tei" value="    @Test public void $name$(){&#10;    &#10;&#9;    sut.$act$();&#10;        org.mockito.Mockito.verify($collaborator$).$someMethod$();&#10;    }" description="interaction test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="act" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="collaborator" expression="" defaultValue="" alwaysStopAt="true" />
@@ -45,6 +45,19 @@
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="teij" value="    @Test public void $name$(){&#10;&#9;    &#10;&#9;    context.checking(new Expectations(){{&#10;&#9;&#9;    &#10;&#9;    }}); &#10;    &#10;&#9;    sut.$act$();&#10;&#9;    &#10;&#9;    context.assertIsSatisfied();&#10;    }" description="interaction test with jmock" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="act" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
     </context>
   </template>
 </templateSet>
