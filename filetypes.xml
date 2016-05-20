@@ -12,4 +12,9 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="5" />
   </component>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
 </application>
