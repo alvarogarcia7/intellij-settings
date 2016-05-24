@@ -28,8 +28,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="bef" value="@org.junit.Before&#10;public void setUp(){&#10;&#9;$cursor$;&#10;}" description="insert a before method for junit" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="befj" value="@org.junit.Before&#10;public void setUp(){&#10;&#9;context = new org.jmock.Mockery();&#10;}" description="insert a before method for junit, using the mockery context" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
