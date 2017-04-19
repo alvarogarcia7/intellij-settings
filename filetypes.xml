@@ -16,7 +16,6 @@
     <extensionMap>
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="history" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
