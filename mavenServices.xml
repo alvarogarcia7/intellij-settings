@@ -3,6 +3,5 @@
     <service-url>http://oss.sonatype.org/service/local/</service-url>
     <service-url>http://repo.jfrog.org/artifactory/api/</service-url>
     <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
-    <service-url>https://citools.mangodev.net/nexus/</service-url>
   </component>
 </application>
