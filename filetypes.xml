@@ -17,6 +17,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="history" type="PLAIN_TEXT" />
+      <mapping ext="args" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
