@@ -19,6 +19,7 @@
       <mapping ext="history" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
       <mapping ext="args" type="PLAIN_TEXT" />
+      <mapping ext="input" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
