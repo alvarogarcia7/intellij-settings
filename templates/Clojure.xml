@@ -1,0 +1,7 @@
+<templateSet group="Clojure">
+  <template name="repl" value="(use 'midje.repl)&#10;(autotest)" description="load midje repl tools" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Clojure" value="true" />
+    </context>
+  </template>
+</templateSet>
