@@ -145,6 +145,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'R4AutomatorApplicationTests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'R4AutomatorApplicationTests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.gmaur.investment.r4automator.R4AutomatorApplicationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -246,6 +254,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MeestIntegrationTest.search_by_city'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'R4AutomatorApplicationTests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'R4AutomatorApplicationTests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
