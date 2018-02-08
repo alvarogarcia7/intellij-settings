@@ -337,6 +337,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.gmaur.investment.r4automator.app.R4AutomatorApplicationKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.gmaur.investment.r4automator.app.R4AutomatorApplicationKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.gmaur.meest.DemoApplicationKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
