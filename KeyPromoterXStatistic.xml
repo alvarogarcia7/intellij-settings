@@ -241,6 +241,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PropertiesTests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PropertiesTests'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PropertiesTests.different_configuration'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -358,7 +366,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DemoApplicationTests'">
