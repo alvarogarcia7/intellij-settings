@@ -57,6 +57,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RobotAdvisorAppTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'RobotAdvisorAppTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'com.gmaur.investment.r4automator.app.R4A...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -318,7 +326,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'RobotAdvisorAppTest'</Description>
-          <Count>2</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.example.demo.DemoApplicationKt'">
@@ -577,6 +585,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RobotAdvisorAppTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RobotAdvisorAppTest'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.example.demo.DemoApplicationKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -654,7 +670,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>104</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
