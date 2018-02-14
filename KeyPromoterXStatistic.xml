@@ -313,6 +313,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RobotAdvisorAppTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RobotAdvisorAppTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.example.demo.DemoApplicationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -383,6 +391,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'r4-automator [package]'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'robot-advisor [package]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'robot-advisor [package]'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
