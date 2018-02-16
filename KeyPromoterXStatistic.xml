@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -318,7 +318,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PortfolioRebalancerShould'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PortfolioRebalancerShould.rebalance a portfolio with a single element in the asset allocation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PortfolioRebalancerShould.rebalance a portfolio with a single element in the asset allocation'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PortfolioTest'">
@@ -550,7 +558,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -878,7 +886,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>21</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
     </option>
