@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -222,6 +222,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AmountShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AssetAllocationShould'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AssetAllocationShould'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -558,7 +566,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -886,7 +894,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>27</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
     </option>
