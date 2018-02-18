@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RobotAdvisorAppFeatureMocked'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'RobotAdvisorAppFeatureMocked'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RobotAdvisorAppTest'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -134,6 +142,14 @@
           <IdeaActionID>ExternalSystem.DetachProject</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Detach Gradle project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'⌘2'</ShortCut>
+          <Description>Favorites</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -462,7 +478,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'RobotAdvisorAppFeatureComplete'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RobotAdvisorAppFeatureComplete.balances a portfolio comparing to the ideal distribution'">
@@ -471,6 +487,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'RobotAdvisorAppFeatureComplete.balances a portfolio comparing to the ideal distribution'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RobotAdvisorAppFeatureMocked'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RobotAdvisorAppFeatureMocked'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RobotAdvisorAppShould'">
@@ -583,6 +607,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.gmaur.investment.r4automator.app.R4FundsParserKt'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.gmaur.investment.robotadvisor.RobotAdvisorAppKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.gmaur.investment.robotadvisor.RobotAdvisorAppKt'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.gmaur.investment.robotadvisor.domain in robot-advisor'">
@@ -873,6 +905,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RobotAdvisorAppFeatureMocked'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RobotAdvisorAppFeatureMocked'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RobotAdvisorAppTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -982,7 +1022,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>171</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1006,7 +1046,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>51</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
     </option>
