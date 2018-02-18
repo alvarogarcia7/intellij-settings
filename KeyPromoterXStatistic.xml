@@ -489,6 +489,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RobotAdvisorAppFeatureMocked (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RobotAdvisorAppFeatureMocked (1)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RobotAdvisorAppFeatureMocked'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -614,7 +622,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.gmaur.investment.robotadvisor.RobotAdvisorAppKt'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.gmaur.investment.robotadvisor.domain in robot-advisor'">
@@ -977,6 +985,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.gmaur.investment.robotadvisor.RobotAdvisorAppKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.gmaur.investment.robotadvisor.RobotAdvisorAppKt'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.gmaur.meest.DemoApplicationKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1030,7 +1046,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
