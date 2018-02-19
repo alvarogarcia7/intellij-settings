@@ -120,6 +120,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
+  <action id="Activater4-automatorToolWindow">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="Activaterobot-advisorToolWindow">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
