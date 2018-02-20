@@ -337,6 +337,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DomainObjectMapperShould'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DomainObjectMapperShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'DomainObjectMapperShould.parse from the other domain'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1134,7 +1142,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
     </option>
