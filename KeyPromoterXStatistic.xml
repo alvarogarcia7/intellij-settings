@@ -1302,7 +1302,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>62</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
     </option>
