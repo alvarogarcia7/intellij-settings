@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -262,7 +262,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>76</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -535,6 +535,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'R4AutomatorApplicationTests.different_configuration'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'R4FundsBuyerFeature'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'R4FundsBuyerFeature'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RebalanceRequestTest'">
@@ -1089,6 +1097,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'R4FundsBuyerFeature'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'R4FundsBuyerFeature'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RobotAdvisorAppFeature'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1302,6 +1318,14 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="r4-automator">
+        <Item>
+          <IdeaActionID>Activater4-automatorToolWindow</IdeaActionID>
+          <ShortCut>'⌘§'</ShortCut>
+          <Description>r4-automator</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
