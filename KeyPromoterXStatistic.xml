@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -502,7 +502,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PropertiesTests'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PropertiesTests.different_configuration'">
