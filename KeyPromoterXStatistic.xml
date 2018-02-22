@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -713,6 +713,14 @@
           <Count>42</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.gmaur.investment.r4automator.app.MainApplicationKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.gmaur.investment.r4automator.app.MainApplicationKt'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.gmaur.investment.r4automator.app.R4AutomatorApplicationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -814,7 +822,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>35</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1209,6 +1217,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.gmaur.investment.r4automator.app.MainApplicationKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.gmaur.investment.r4automator.app.MainApplicationKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.gmaur.investment.r4automator.app.R4AutomatorApplicationKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1326,7 +1342,7 @@
           <IdeaActionID>Activater4-automatorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>r4-automator</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="robot-advisor">
