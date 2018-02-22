@@ -36,7 +36,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="mok" value="final $Class$ $name$ = context.mock($Class$.class);" description="jmock's testdouble::mock" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mockj" value="final $Class$ $name$ = context.mock($Class$.class);" description="jmock's testdouble::mock" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="Class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -45,12 +45,18 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="tesk" value="    @org.junit.Test fun `$name$`(){&#10;        org.assertj.core.api.Assertions.assertThat($act$).isEqualTo($expected$)&#10;    }" description="test interaction kotlin" toReformat="true" toShortenFQNames="true">
+  <template name="tesk" value="    @org.junit.Test fun `$name$`(){&#10;        org.assertj.core.api.Assertions.assertThat($act$).isEqualTo($expected$)&#10;    }" description="state test in kotlin" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="act" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="expected" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="mockk" value="org.mockito.Mockito.mock($class$::class.java)" description="Mockito in kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
 </templateSet>
