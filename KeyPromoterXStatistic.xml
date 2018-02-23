@@ -278,7 +278,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -774,7 +774,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.gmaur.investment.r4automator.app.MainApplicationKt'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.gmaur.investment.r4automator.app.R4AutomatorApplicationKt'">
@@ -878,7 +878,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1294,7 +1294,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.gmaur.investment.r4automator.app.MainApplicationKt'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.gmaur.investment.r4automator.app.R4AutomatorApplicationKt'">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>Activater4-automatorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>r4-automator</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="robot-advisor">
