@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'com.gmaur.investment.robotadvisor.RobotA...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'convert to X()'">
@@ -1041,6 +1041,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'com.gmaur.investment.robotadvisor.RobotA...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'com.gmaur.investment.robotadvisor.RobotA...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'compile mktws'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1326,7 +1334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.gmaur.investment.robotadvisor.RobotAdvisorAppKt'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.gmaur.meest.DemoApplicationKt'">
@@ -1422,7 +1430,7 @@
           <IdeaActionID>Activater4-automatorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>r4-automator</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="robot-advisor">
