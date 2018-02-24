@@ -177,6 +177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'com.gmaur.investment.robotadvisor.MainAp...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'com.gmaur.investment.robotadvisor.MainAp...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'com.gmaur.investment.robotadvisor.RobotA...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -294,7 +302,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>86</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -383,6 +391,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AcceptanceTest.query by city'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All in robot-advisor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in robot-advisor'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AmountShould'">
@@ -670,7 +686,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'RobotAdvisorAppFeatureMocked'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RobotAdvisorAppShould'">
@@ -711,6 +727,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'RobotAdvisorAppTest.incomplete request'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RobotAdvisorControllerFeatureMocked'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RobotAdvisorControllerFeatureMocked'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RunnerTest'">
@@ -878,7 +902,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -902,7 +926,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>52</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -910,7 +934,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DemoApplicationTests'">
@@ -1046,7 +1070,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'com.gmaur.investment...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.gmaur.investment.r4automator.R4Autom...'">
@@ -1342,7 +1366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.gmaur.investment.r4automator.app.MainApplicationKt'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.gmaur.investment.r4automator.app.R4AutomatorApplicationKt'">
@@ -1358,6 +1382,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.gmaur.investment.r4automator.app.R4FundsParserKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.gmaur.investment.robotadvisor.MainApplicationKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.gmaur.investment.robotadvisor.MainApplicationKt'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1470,7 +1502,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
     </option>
