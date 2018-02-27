@@ -318,7 +318,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>91</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -958,7 +958,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceTest.query by city through the...'">
@@ -1527,6 +1527,14 @@
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="meest">
+        <Item>
+          <IdeaActionID>ActivatemeestToolWindow</IdeaActionID>
+          <ShortCut>'⌘§'</ShortCut>
+          <Description>meest</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="r4-automator">
