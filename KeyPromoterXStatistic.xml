@@ -1169,6 +1169,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'deployer [install]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'deployer [install]'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'mngdocgen [clean upload]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'mngdocgen [clean upload]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'package'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
