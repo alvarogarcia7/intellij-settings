@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -310,7 +310,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>31</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -318,7 +318,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>96</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -966,7 +966,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceTest.query by city through the...'">
@@ -1199,6 +1199,14 @@
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AcceptanceFeature.query by city through the rest api'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AcceptanceFeature.query by city through the rest api'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DomainObjectMapperShould.parse from the other domain'">
@@ -1518,7 +1526,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>248</Count>
+          <Count>251</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1542,7 +1550,7 @@
           <IdeaActionID>ActivatemeestToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>meest</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="r4-automator">
