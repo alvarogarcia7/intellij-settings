@@ -1177,6 +1177,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'mngdocgen [clean package]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'mngdocgen [clean package]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'mngdocgen [clean upload]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
