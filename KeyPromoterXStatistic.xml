@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
