@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Hierarchy of com.coxautodev.graphql.tools.GraphQLMutationResolver" />
-    <option name="defaultScopeName" value="Hierarchy of com.coxautodev.graphql.tools.GraphQLMutationResolver" />
-    <option name="SEARCH_SCOPE" value="Hierarchy of com.coxautodev.graphql.tools.GraphQLMutationResolver" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
