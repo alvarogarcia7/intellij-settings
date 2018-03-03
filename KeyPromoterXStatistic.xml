@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>109</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -455,6 +455,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AcceptanceTest.query by city'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All in bank'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in bank'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in robot-advisor'">
@@ -1070,7 +1078,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ByAndRequestShould'">
@@ -1703,6 +1711,14 @@
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="bank">
+        <Item>
+          <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
+          <ShortCut>'⌘§'</ShortCut>
+          <Description>bank</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
