@@ -169,6 +169,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ServiceIntegrationTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'ServiceIntegrationTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Spike'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -374,7 +382,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>117</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -886,7 +894,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ServiceIntegrationTest'</Description>
-          <Count>3</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Spike'">
@@ -1126,7 +1134,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -1255,6 +1263,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'RobotAdvisorAppTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ServiceIntegrationTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ServiceIntegrationTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.example.demo''">
@@ -1814,7 +1830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>287</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1838,7 +1854,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
