@@ -1169,6 +1169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'GildedRoseTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'GildedRoseTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MatchmakingTests'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
