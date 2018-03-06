@@ -1449,6 +1449,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'deposit - a correc...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'deposit - a correc...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'mngdocgen [clean package]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1910,7 +1918,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
