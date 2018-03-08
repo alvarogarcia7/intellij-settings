@@ -1958,7 +1958,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
