@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'com.gmaur.investment.r4automator.app.Mai...'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'com.gmaur.investment.r4automator.app.R4A...'">
@@ -246,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'com.gmaur.investment.robotadvisor.MainAp...'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'com.gmaur.investment.robotadvisor.RobotA...'">
@@ -2038,7 +2038,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>324</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
