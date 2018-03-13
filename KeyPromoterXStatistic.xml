@@ -230,7 +230,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'com.gmaur.investment...'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'com.gmaur.investment.r4automator.app.Mai...'">
@@ -438,7 +438,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>141</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -2214,7 +2214,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
     </option>
