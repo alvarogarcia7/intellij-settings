@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'All in bank'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'All in bank'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ApplicationTest'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -438,7 +446,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>70</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -446,7 +454,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>145</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -566,7 +574,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in bank'</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in robot-advisor (1)'">
@@ -663,6 +671,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'E2EServiceFeatureTest'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'E2EServiceFeatureTest.create accounts'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'E2EServiceFeatureTest.create accounts'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'E2EServiceFeatureTest.deposit - a correct request'">
@@ -1326,7 +1342,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in bank'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in bank'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in robot-advisor (1)'">
@@ -2182,7 +2206,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>338</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -2214,7 +2238,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>68</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
