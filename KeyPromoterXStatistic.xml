@@ -1310,7 +1310,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -2238,7 +2238,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
