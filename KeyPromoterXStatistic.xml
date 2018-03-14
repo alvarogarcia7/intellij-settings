@@ -454,7 +454,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -855,6 +855,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'OperationDeserializerShould'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OperationsHandlerShould'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OperationsHandlerShould'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ParseFundsTest'">
@@ -1374,7 +1382,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in bank'">
@@ -2246,7 +2254,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>364</Count>
+          <Count>365</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -2278,7 +2286,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>80</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
