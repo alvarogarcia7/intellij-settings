@@ -1169,6 +1169,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TicTacToeTest.cannot_play_twice_as_the_same_player'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TicTacToeTest.cannot_play_twice_as_the_same_player'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TransformersRunnerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2137,6 +2145,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TicTacToeTest.cannot_play_twice_as_the_same_player'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TicTacToeTest.cannot_play_twice_as_the_same_player'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TransformersRunnerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2318,7 +2334,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>369</Count>
+          <Count>372</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
