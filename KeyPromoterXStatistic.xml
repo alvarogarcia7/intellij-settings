@@ -177,6 +177,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PremiumAccountShould'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'PremiumAccountShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RobotAdvisorAppFeature'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -638,7 +646,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Accounts*'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in bank (1)'">
@@ -1030,7 +1038,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PremiumAccountShould'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PremiumAccountShould.be protected with an OTP code to confirm a transfer'">
@@ -1039,6 +1047,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PremiumAccountShould.be protected with an OTP code to confirm a transfer'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PremiumAccountShould.can confirm incoming secure transfers'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PremiumAccountShould.can confirm incoming secure transfers'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PremiumAccountShould.money is not lost during transfers'">
@@ -1510,7 +1526,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>99</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -1542,7 +1558,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Accounts*'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1726,7 +1742,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PremiumAccountShould'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'R4AutomatorApplicationTests'">
@@ -2225,11 +2241,35 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'PremiumAccountShould'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PremiumAccountShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PremiumAccountShould.be protected with an OTP code to confirm a transfer'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'PremiumAccountShould.be protected with an OTP code to confirm a transfer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PremiumAccountShould.can confirm incoming secure transfers'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PremiumAccountShould.can confirm incoming secure transfers'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PremiumAccountShould.can confirm incoming transfers'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PremiumAccountShould.can confirm incoming transfers'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -2278,6 +2318,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'R4FundsBuyerShould.convert to X'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2574,7 +2622,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>392</Count>
+          <Count>395</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -2606,7 +2654,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>95</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
