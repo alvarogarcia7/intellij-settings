@@ -1169,6 +1169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PremiumAccountShould.no money is lost when transferring money and both accounts are protected'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PremiumAccountShould.no money is lost when transferring money and both accounts are protected'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PropertiesTests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2159,6 +2167,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'package'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'⌥F9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
