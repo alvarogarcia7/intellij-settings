@@ -566,7 +566,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>97</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>169</Count>
+          <Count>171</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
