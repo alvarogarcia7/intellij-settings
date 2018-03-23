@@ -614,7 +614,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>191</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -2942,7 +2942,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>457</Count>
+          <Count>464</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -2966,7 +2966,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="bank">
@@ -2998,7 +2998,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>80</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
     </option>
