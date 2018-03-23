@@ -614,7 +614,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>188</Count>
+          <Count>189</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -863,6 +863,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DeliveryServiceClientTest.test_1'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DeliveryServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DeliveryServiceTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DemoApplicationTests'">
@@ -2321,6 +2329,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DeliveryServiceTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DeliveryServiceTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DomainObjectMapperShould.parse from the other domain'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2926,7 +2942,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
