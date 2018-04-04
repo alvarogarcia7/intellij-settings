@@ -1065,6 +1065,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'GearBoxTest.below_the_lower_bound_it_shifts_gear_down'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GearBoxTest.below_the_lower_bound_it_shifts_gear_down'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GetDeliveryOptionsTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2207,6 +2215,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'X'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'below_the_lower_bo...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'below_the_lower_bo...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.example.demo.DemoApplicationKt'">
