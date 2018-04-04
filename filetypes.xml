@@ -17,7 +17,6 @@
       <mapping pattern="ArrowExtensions" type="Kotlin" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
-      <mapping ext="tex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
