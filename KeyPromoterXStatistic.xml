@@ -54,7 +54,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -646,7 +646,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>134</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
