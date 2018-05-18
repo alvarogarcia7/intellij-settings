@@ -662,7 +662,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>147</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1217,6 +1217,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MysqlLoanApplicationRepositoryIntegrationTest.loads_the_context'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MysqlLoanApplicationRepositoryIntegrationTest.loads_the_context'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OperationDeserializerShould'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1577,6 +1585,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SystemShould.return_flex_request_given_ref_id'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SystemShould.return_flex_request_given_ref_id'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TicTacToeTest.cannot_play_twice_as_the_same_player'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1934,7 +1950,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in bank'">
@@ -1950,7 +1966,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in la4j'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in robot-advisor (1)'">
@@ -2481,6 +2497,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'loads_the_context()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'loads_the_context()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'mngdocgen [clean package]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2511,6 +2535,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'package'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'return_flex_reques...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'return_flex_reques...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
