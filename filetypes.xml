@@ -15,6 +15,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ArrowExtensions" type="Kotlin" />
+      <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
     </extensionMap>
