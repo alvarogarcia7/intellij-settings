@@ -1598,7 +1598,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SystemShould.return_flex_request_given_ref_id'</Description>
-          <Count>1</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TicTacToeTest.cannot_play_twice_as_the_same_player'">
@@ -3137,6 +3137,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SystemShould.return_flex_request_given_ref_id'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SystemShould.return_flex_request_given_ref_id'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TicTacToeTest.cannot_play_twice_as_the_same_player'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3382,7 +3390,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>521</Count>
+          <Count>522</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
