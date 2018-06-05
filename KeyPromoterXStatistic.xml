@@ -1177,6 +1177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LA4JApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LA4JApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LinkShould (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1966,7 +1974,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>157</Count>
+          <Count>158</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -2190,7 +2198,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'LA4JApplication.main()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LinkShould'">
