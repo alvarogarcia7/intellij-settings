@@ -289,6 +289,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SMSSendingIntegrationTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'SMSSendingIntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ServiceIntegrationTest'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1617,6 +1625,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SMSSendingIntegrationTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SMSSendingIntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ServiceIntegrationTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1998,7 +2014,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>161</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -2662,7 +2678,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'la4j [clean,package]'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'list accounts()'">
@@ -3534,7 +3550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>523</Count>
+          <Count>526</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
