@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'LA4JApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LoanApplicationRepositoryIntegrationTest'">
@@ -302,6 +302,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'SMSSendingServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SendSMSUseCaseTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'SendSMSUseCaseTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1230,7 +1238,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'LA4JApplication'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'LinkShould (1)'">
@@ -2038,7 +2046,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -3022,7 +3030,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LA4JApplication'</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LinkShould.can't parse a link without resources'">
@@ -3622,7 +3630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>536</Count>
+          <Count>538</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
