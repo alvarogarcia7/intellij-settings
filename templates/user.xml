@@ -59,4 +59,14 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="tesu" value="@Test&#10;public void $name$ () {&#10;    org.junit.Assert.assertThat($actual$, org.hamcrest.core.Is.is($expected$));&#10;}" description="state test using junit libraries" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="actual" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="expected" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
 </templateSet>
