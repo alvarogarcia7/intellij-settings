@@ -710,7 +710,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>324</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -2062,7 +2062,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>172</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
