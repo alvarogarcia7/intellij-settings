@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'LA4JApplication'</Description>
-          <Count>18</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LA4JApplication.main()'">
@@ -311,6 +311,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'SMSSendingIntegrationTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SMSSendingIntegrationTest.send_a_sms_whe...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'SMSSendingIntegrationTest.send_a_sms_whe...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SMSSendingServiceIntegrationTest'">
@@ -734,7 +742,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>351</Count>
+          <Count>357</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -1270,7 +1278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'LA4JApplication'</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'LinkShould (1)'">
@@ -2358,7 +2366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'LA4JApplication'</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LA4JApplication.main()'">
@@ -3126,7 +3134,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LA4JApplication'</Description>
-          <Count>44</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LinkShould.can't parse a link without resources'">
@@ -3465,6 +3473,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SMSSendingIntegrationTest.send_a_sms_when_the_request_is_valid'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SMSSendingIntegrationTest.send_a_sms_when_the_request_is_valid'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SMSSendingServiceIntegrationTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3703,6 +3719,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'deploy local'</Description>
           <Count>38</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'la4j [clean,package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'la4j [clean,package]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'package'">
