@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'LA4JApplication'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LA4JApplication.main()'">
@@ -342,6 +342,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'SendSMSUseCaseTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SendSMSUseCaseTest.nonexisting_refid_doe...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'SendSMSUseCaseTest.nonexisting_refid_doe...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -734,7 +742,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>164</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1753,6 +1761,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SendSMSUseCaseTest.nonexisting_refid_does_not_trigger_any_sms_sending'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SendSMSUseCaseTest.nonexisting_refid_does_not_trigger_any_sms_sending'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ServiceIntegrationTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2118,7 +2134,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2134,7 +2150,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>179</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -3150,7 +3166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LA4JApplication'</Description>
-          <Count>60</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LinkShould.can't parse a link without resources'">
