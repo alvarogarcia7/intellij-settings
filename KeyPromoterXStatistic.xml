@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'LA4JApplication'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LA4JApplication.main()'">
@@ -743,6 +743,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>361</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...icationService.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile '...icationService.java'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...matorApplication.kt'">
@@ -3142,7 +3150,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LA4JApplication'</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LinkShould.can't parse a link without resources'">
