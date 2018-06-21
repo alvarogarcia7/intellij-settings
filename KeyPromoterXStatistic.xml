@@ -742,7 +742,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>173</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1471,6 +1471,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PinCodeValidation_IntegrationTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PinCodesServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PinCodesServiceTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PortfolioRebalancerShould'">
