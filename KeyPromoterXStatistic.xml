@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'LA4JApplication'</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LA4JApplication.main()'">
@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>367</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
