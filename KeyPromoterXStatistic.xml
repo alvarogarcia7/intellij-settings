@@ -169,6 +169,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FixedStrategyRebalancingShould.not rebal...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'FixedStrategyRebalancingShould.not rebal...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'KommsExecutor.main()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -590,7 +598,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'not rebalance a po...()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'parse from the oth...()'">
@@ -758,7 +766,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>377</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
@@ -1214,7 +1222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FixedStrategyRebalancingShould'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FixedStrategyRebalancingShould.not rebalance a portfolio that is correct already, with several assets - no repeated allocation cases'">
@@ -2198,7 +2206,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>184</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -2238,7 +2246,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in bank'">
@@ -2271,6 +2279,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in robot-advisor (1)'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in robot-advisor'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in robot-advisor'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ByAndRequestShould'">
@@ -3185,6 +3201,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'FixedStrategyRebalancingShould.not rebalance a portfolio that is correct already, with several assets and the allocation is composed by several, order does not matter'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FixedStrategyRebalancingShould.not rebalance a portfolio that is correct already, with several assets and the allocation is composed by several, order does not matter'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'GameApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -3854,7 +3878,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>607</Count>
+          <Count>613</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
@@ -3926,7 +3950,7 @@
           <IdeaActionID>Activaterobot-advisorToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>robot-advisor</Description>
-          <Count>82</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
     </option>
