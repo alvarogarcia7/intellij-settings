@@ -2417,6 +2417,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FiniteStateMachineShould'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FiniteStateMachineShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FixedStrategyRebalancingShould'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
