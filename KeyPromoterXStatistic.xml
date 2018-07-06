@@ -2185,6 +2185,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'infrastructure.cli.MainKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'infrastructure.cli.MainKt'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'la4j [clean,install]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2294,7 +2302,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>192</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -2990,6 +2998,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'deposit - a correc...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'infrastructure.cli.M...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'infrastructure.cli.M...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
