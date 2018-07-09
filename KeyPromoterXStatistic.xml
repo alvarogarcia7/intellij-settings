@@ -798,7 +798,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>207</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -4142,7 +4142,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>135</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
