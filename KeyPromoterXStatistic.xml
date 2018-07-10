@@ -585,6 +585,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'flow 1()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'flow 1()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'funds do not chang...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -2054,6 +2062,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'TransportUtilsTestShould.execute_getTransportesPaisEstado_new_when_feature_toggle_is_enabled'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserFlowTest.flow 1'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserFlowTest.flow 1'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -4118,7 +4134,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -4150,7 +4166,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>662</Count>
+          <Count>664</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -4206,7 +4222,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>160</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
