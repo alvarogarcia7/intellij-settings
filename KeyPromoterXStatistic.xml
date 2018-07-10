@@ -478,7 +478,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'com.example.kata.bank.service.delivery.a...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'com.gmaur.investment...'">
@@ -814,7 +814,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>411</Count>
+          <Count>412</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
@@ -4206,7 +4206,7 @@
           <IdeaActionID>ActivatebankToolWindow</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>bank</Description>
-          <Count>157</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="meest">
