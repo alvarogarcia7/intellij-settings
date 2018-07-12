@@ -441,6 +441,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'UserFlowTest.withdraw from an account'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'UserFlowTest.withdraw from an account'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'balances a portfol...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -711,6 +719,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'transfer a securit...()'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'withdraw from an a...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'withdraw from an a...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2111,6 +2127,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'UserFlowTest.get the balance after a few deposits'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UserFlowTest.withdraw from an account'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UserFlowTest.withdraw from an account'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'X'">
@@ -4009,6 +4033,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UserFlowTest.withdraw from an account'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UserFlowTest.withdraw from an account'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'X'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -4238,7 +4270,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>680</Count>
+          <Count>685</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
