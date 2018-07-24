@@ -697,6 +697,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'print_statement()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'print_statement()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'query by city thro...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1039,6 +1047,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AcceptanceTest.query by city'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AccountTest.withdraw_amount'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AccountTest.withdraw_amount'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Accounts*'">
@@ -3361,6 +3377,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'AccountTest.print_statement'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AccountTest.print_statement'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'All in la4j'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -4294,7 +4318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>686</Count>
+          <Count>687</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
