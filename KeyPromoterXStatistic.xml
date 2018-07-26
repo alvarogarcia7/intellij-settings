@@ -4182,7 +4182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.gmaur.investment.r4automator.app.MainApplicationKt'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.gmaur.investment.r4automator.app.R4AutomatorApplicationKt'">
