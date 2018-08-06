@@ -2257,6 +2257,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.example.kata.gossipingbusdriver.DomainKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.example.kata.gossipingbusdriver.DomainKt'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.example.kata.leansupermarket.MainApplicationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -4273,6 +4281,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.example.kata.gossipingbusdriver.DomainKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.example.kata.gossipingbusdriver.DomainKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.example.kata.leansupermarket.MainApplicationKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -4454,7 +4470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>704</Count>
+          <Count>705</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
