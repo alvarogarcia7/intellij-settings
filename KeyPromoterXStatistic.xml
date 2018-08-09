@@ -2510,7 +2510,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>203</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -3806,6 +3806,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MeestIntegrationTest.search_by_city'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MyApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MyApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
