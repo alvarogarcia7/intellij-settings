@@ -918,7 +918,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>464</Count>
+          <Count>465</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
@@ -1318,6 +1318,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DefaultDeliveryMethodShould'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DeliveryApiClientShould.connect_to_the_API_in_the_happy_path'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DeliveryApiClientShould.connect_to_the_API_in_the_happy_path'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
