@@ -894,7 +894,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -942,7 +942,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>471</Count>
+          <Count>472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
