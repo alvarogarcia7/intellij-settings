@@ -950,7 +950,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>491</Count>
+          <Count>493</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
@@ -2702,7 +2702,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>226</Count>
+          <Count>227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -2742,7 +2742,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in bank'">
