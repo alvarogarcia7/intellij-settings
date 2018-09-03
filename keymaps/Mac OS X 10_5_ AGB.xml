@@ -132,6 +132,9 @@
   <action id="Activaterobot-advisorToolWindow">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
+  <action id="Activaterpg-kata_testToolWindow">
+    <keyboard-shortcut first-keystroke="#10000a7" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f9" />
