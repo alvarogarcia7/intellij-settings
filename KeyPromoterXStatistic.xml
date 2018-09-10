@@ -974,7 +974,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>516</Count>
+          <Count>517</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
