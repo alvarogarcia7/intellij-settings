@@ -974,7 +974,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>518</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
@@ -4742,7 +4742,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.gmaur.investment.robotadvisor.MainApplicationKt'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.gmaur.investment.robotadvisor.RobotAdvisorAppKt'">
