@@ -114,6 +114,9 @@
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
+  <action id="Activate2048_testToolWindow">
+    <keyboard-shortcut first-keystroke="#10000a7" />
+  </action>
   <action id="ActivateProblemsToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
