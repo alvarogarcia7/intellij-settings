@@ -6,7 +6,7 @@
           <IdeaActionID>Activate2048_testToolWindow</IdeaActionID>
           <ShortCut>'§'</ShortCut>
           <Description>2048_test</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -998,7 +998,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>524</Count>
+          <Count>525</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
@@ -1718,6 +1718,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GameLoopTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GameRulesFeature'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GameRulesFeature'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2790,7 +2798,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>239</Count>
+          <Count>240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
