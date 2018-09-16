@@ -6,7 +6,7 @@
           <IdeaActionID>Activate2048_testToolWindow</IdeaActionID>
           <ShortCut>'§'</ShortCut>
           <Description>2048_test</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -1726,7 +1726,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GameRulesFeature.collapse two pieces that are together in the same column, when moving columns, reducing from two tiles to one'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GearBoxTest.below_the_lower_bound_it_shifts_gear_down'">
@@ -2774,7 +2774,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>109</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
