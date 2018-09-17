@@ -854,7 +854,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'when moving column...()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'withdraw from an a...()'">
@@ -1774,7 +1774,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GameRulesFeature.when moving columns, move even if they don't collapse'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GearBoxTest.below_the_lower_bound_it_shifts_gear_down'">
@@ -2822,7 +2822,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>112</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2838,7 +2838,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>248</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -4198,7 +4198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'GameRulesFeature.when moving columns, move even if they don't collapse'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GameTest'">
@@ -5014,7 +5014,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>771</Count>
+          <Count>773</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
