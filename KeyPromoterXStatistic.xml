@@ -6,7 +6,7 @@
           <IdeaActionID>Activate2048_testToolWindow</IdeaActionID>
           <ShortCut>'§'</ShortCut>
           <Description>2048_test</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -575,6 +575,14 @@
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'check_that_this_co...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'collapse two piece...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'collapse two piece...()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'com.example.kata.bank.service.delivery.a...'">
@@ -1726,7 +1734,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GameRulesFeature'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GameRulesFeature.collapse two pieces that are together in the same column, when moving columns, reducing from two tiles to one'">
@@ -1734,6 +1742,22 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GameRulesFeature.collapse two pieces that are together in the same column, when moving columns, reducing from two tiles to one'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GameRulesFeature.collapse two pieces that are together, collapses multiple pairs at once'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GameRulesFeature.collapse two pieces that are together, collapses multiple pairs at once'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GameRulesFeature.collapse two pieces that are together, increasing the tile value'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GameRulesFeature.collapse two pieces that are together, increasing the tile value'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -2798,7 +2822,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>241</Count>
+          <Count>248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
@@ -4129,6 +4153,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'GameRulesFeature.collapse two pieces that are together, collapses multiple pairs at once'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GameRulesFeature.collapse two pieces that are together, collapses multiple pairs at once'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GameRulesFeature.collapse two pieces that are together, collapses only in pairs, the first pieces to collapse are the ones on the direction of the move'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GameRulesFeature.collapse two pieces that are together, collapses only in pairs, the first pieces to collapse are the ones on the direction of the move'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GameRulesFeature.collapse two pieces that are together, increasing the tile value'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GameRulesFeature.collapse two pieces that are together, increasing the tile value'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'GameTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -4942,7 +4990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>763</Count>
+          <Count>768</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
