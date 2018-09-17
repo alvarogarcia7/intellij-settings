@@ -3345,6 +3345,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ShopApiClientShould.notify_about_not_vou...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ShopApiClientShould.notify_about_not_vou...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Spike1Test'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
