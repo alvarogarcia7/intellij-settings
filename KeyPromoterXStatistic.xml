@@ -2481,12 +2481,20 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TranslationsFeature'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TranslationsFeature'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TranslationsFeature.load_a_single_translation'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'TranslationsFeature.load_a_single_translation'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TransportServiceContextShould'">
@@ -3487,6 +3495,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'TransformersRunnerTest'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TranslationsFeature'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'TranslationsFeature'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TransportUtilsITTestShould'">
@@ -4782,7 +4798,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TranslationsFeature.load_a_single_translation'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TransportUtilsITTestShould'">
@@ -5094,7 +5110,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>783</Count>
+          <Count>784</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
