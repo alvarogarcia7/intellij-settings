@@ -1014,7 +1014,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>532</Count>
+          <Count>537</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...icationService.java'">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Application'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ApplicationTest'">
@@ -2457,6 +2457,14 @@
           <Count>37</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TranslationServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TranslationServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TranslationsDataPump'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -2974,7 +2982,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Application.main()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ByAndRequestShould'">
@@ -5054,7 +5062,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>44</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
