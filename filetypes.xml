@@ -18,6 +18,7 @@
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-jenkins" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
