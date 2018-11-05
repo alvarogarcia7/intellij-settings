@@ -102,7 +102,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌘I'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AcceptanceFeature'">
@@ -974,7 +974,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>542</Count>
+          <Count>543</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'labels-api'">
