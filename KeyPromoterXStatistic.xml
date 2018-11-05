@@ -17,6 +17,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Browse Type Hierarchy">
+        <Item>
+          <IdeaActionID>TypeHierarchy</IdeaActionID>
+          <ShortCut>'⌃H'</ShortCut>
+          <Description>Browse Type Hierarchy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
@@ -2510,7 +2518,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'TranslationsDataPump'</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TranslationsFeature'">
@@ -3550,7 +3558,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'TranslationsDataPump'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TranslationsFeature'">
