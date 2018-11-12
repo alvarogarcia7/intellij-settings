@@ -1054,7 +1054,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>563</Count>
+          <Count>564</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'labels-api'">
