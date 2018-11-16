@@ -1065,6 +1065,14 @@
           <Count>570</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild ...'tell-dont-ask-kata'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild ...'tell-dont-ask-kata'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rebuild Module 'labels-api'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -3022,7 +3030,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in bank'">
