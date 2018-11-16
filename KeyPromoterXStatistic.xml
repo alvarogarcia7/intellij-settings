@@ -1062,7 +1062,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>566</Count>
+          <Count>570</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'labels-api'">
@@ -5278,7 +5278,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>796</Count>
+          <Count>797</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
