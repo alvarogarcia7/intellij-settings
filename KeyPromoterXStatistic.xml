@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>575</Count>
+          <Count>577</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...'tell-dont-ask-kata'">
