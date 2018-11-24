@@ -1078,7 +1078,7 @@
           <IdeaActionID>ActivateProblemsToolWindow</IdeaActionID>
           <ShortCut>'⌘9'</ShortCut>
           <Description>Problems</Description>
-          <Count>262</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>588</Count>
+          <Count>589</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...'tell-dont-ask-kata'">
@@ -1447,6 +1447,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in snack-shack_test'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'All in testing-tutorial_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in testing-tutorial_test'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AmountShould'">
@@ -3078,7 +3086,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>80</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in bank'">
@@ -3158,6 +3166,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in tell-dont-ask-kata'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in testing-tutorial_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in testing-tutorial_test'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
