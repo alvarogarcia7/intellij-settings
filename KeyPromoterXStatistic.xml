@@ -966,7 +966,7 @@
           <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Duplicate</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
