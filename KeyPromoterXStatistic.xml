@@ -2641,6 +2641,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TranslationsDataPumpShould.migrate_subset'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TranslationsDataPumpShould.migrate_subset'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TranslationsDataPumpShould.read_all'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3078,7 +3086,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>273</Count>
+          <Count>276</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
