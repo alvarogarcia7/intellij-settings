@@ -2625,6 +2625,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TranslationsDataPumpShould.create_dynamodb_infrastructure'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TranslationsDataPumpShould.create_dynamodb_infrastructure'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TranslationsDataPumpShould.migrate_all'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -3070,7 +3078,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>270</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AcceptanceFeature'">
