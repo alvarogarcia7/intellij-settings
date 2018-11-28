@@ -5105,6 +5105,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TranslationsDataPumpShould.migrate_subset'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TranslationsDataPumpShould.migrate_subset'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TranslationsFeature.load_a_single_translation'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
