@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>301</Count>
+          <Count>311</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'APYTest.convert APY to APR'">
@@ -305,6 +305,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'test [clean,install]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'test [clean,install]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -423,6 +431,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'pet.clinic.Application'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test [clean,install]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'test [clean,install]'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Source">
