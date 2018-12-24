@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>439</Count>
+          <Count>445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -239,6 +239,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'All in testing-tutorial_test'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Application'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Application'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ByRateLoanFinderTest.quote a Loan from two Lenders, even if there are more Lenders'">
