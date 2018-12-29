@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>725</Count>
+          <Count>729</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -310,7 +310,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'APYTest.convert APY to APR'">
@@ -871,6 +871,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'APYTest.convert APY to APR'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AddTransactionTest.adding_a_transaction_with_invalid_json_2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AddTransactionTest.adding_a_transaction_with_invalid_json_2'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AddTransactionTest.adding_a_valid_transaction'">
