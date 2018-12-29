@@ -14,7 +14,7 @@
           <IdeaActionID>ConvertJavaToKotlin</IdeaActionID>
           <ShortCut>'⌥⇧⌘K'</ShortCut>
           <Description>Convert Java File to Kotlin File</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>660</Count>
+          <Count>669</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -558,7 +558,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in coding-challenge'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in com.example.king.leaderboard.test'">
