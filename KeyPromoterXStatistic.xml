@@ -270,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>755</Count>
+          <Count>758</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -601,6 +601,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'test concurrency'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'test concurrency'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -881,6 +889,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'test concurrency'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'test concurrency'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Source">
         <Item>
           <IdeaActionID>ViewSource</IdeaActionID>
@@ -1103,6 +1119,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'pet.clinic.Application'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'test concurrency'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'test concurrency'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
