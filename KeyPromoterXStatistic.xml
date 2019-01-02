@@ -593,6 +593,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.gmaur.investment.r4automator.app.MainApplicationKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.gmaur.investment.r4automator.app.MainApplicationKt'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'kotlin in com.example.boilerplate.boilerplate.test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1190,7 +1198,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>141</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
     </option>
