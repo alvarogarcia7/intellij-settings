@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Kotlin/Convert anonymous function to lambda expression" />
-  </component>
-</application>
