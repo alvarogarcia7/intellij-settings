@@ -601,6 +601,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RomanNumeralsTest.always_the_biggest_roman_available'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RomanNumeralsTest.always_the_biggest_roman_available'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Solution1.x'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
