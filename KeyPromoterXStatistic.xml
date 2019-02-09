@@ -625,6 +625,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RomanNumeralsTest$Examples_Convert_single_letters'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RomanNumeralsTest$Examples_Convert_single_letters'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Solution1.x'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -751,6 +759,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in coding-challenge'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in com.example.kata.romannumerals.romannumerals.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in com.example.kata.romannumerals.romannumerals.test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in com.example.king.leaderboard.test'">
