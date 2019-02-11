@@ -158,7 +158,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'can_repeat_letters()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'cannot_have_4_lett...()'">
@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>813</Count>
+          <Count>815</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -487,6 +487,30 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ByDigitsRomanNumeralsTest.can_repeat_letters'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ByFixingBrokenBusinessRulesRomanNumeralsTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ByFixingBrokenBusinessRulesRomanNumeralsTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ByFixingBrokenBusinessRulesRomanNumeralsTest.can_repeat_letters'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ByFixingBrokenBusinessRulesRomanNumeralsTest.can_repeat_letters'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ByFixingBrokenBusinessRulesRomanNumeralsTest.x'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ByFixingBrokenBusinessRulesRomanNumeralsTest.x'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ByRateLoanFinderTest.quote a Loan from two Lenders, even if there are more Lenders'">
@@ -742,7 +766,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>17</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -750,7 +774,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'APYTest'">
@@ -1129,6 +1153,30 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ByFixingBrokenBusinessRulesRomanNumeralsTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ByFixingBrokenBusinessRulesRomanNumeralsTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ByFixingBrokenBusinessRulesRomanNumeralsTest.can_repeat_letters'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ByFixingBrokenBusinessRulesRomanNumeralsTest.can_repeat_letters'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ByFixingBrokenBusinessRulesRomanNumeralsTest.x'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ByFixingBrokenBusinessRulesRomanNumeralsTest.x'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ByRateLoanFinderTest.quote a Loan from two Lenders, even if there are more Lenders'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1366,7 +1414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>167</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
