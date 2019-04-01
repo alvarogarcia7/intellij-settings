@@ -806,7 +806,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in coding-challenge'">
@@ -1047,6 +1047,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'kotlin in com.example.boilerplate.boilerplate.test'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'packageName.SpringEntryPoint'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'packageName.SpringEntryPoint'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pet.clinic.Application'">
@@ -1430,7 +1438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>180</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
