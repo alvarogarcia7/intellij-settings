@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>937</Count>
+          <Count>939</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -846,7 +846,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>198</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -886,7 +886,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in coding-challenge'">
@@ -1134,7 +1134,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'packageName.SpringEntryPoint'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'packageName.SpringEntryPointKt'">
@@ -1510,7 +1510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'packageName.SpringEntryPoint'</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pet.clinic.Application'">
