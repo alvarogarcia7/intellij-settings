@@ -937,6 +937,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All in kotlin-seed.kotlin-seed.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in kotlin-seed.kotlin-seed.test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'All in testing-tutorial_test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
