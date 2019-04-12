@@ -905,6 +905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AkkaQuickstart (1)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'AkkaQuickstart (1)'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'AkkaQuickstart'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1606,7 +1614,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
