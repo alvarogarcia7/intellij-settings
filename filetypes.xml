@@ -5,6 +5,7 @@
       <mapping pattern="BowlingShould" type="Kotlin" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
