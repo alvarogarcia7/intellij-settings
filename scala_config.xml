@@ -3,6 +3,8 @@
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
     <option name="INTRODUCE_FIELD_REPLACE_ALL" value="true" />
     <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+    <option name="RENAME_SEARCH_IN_NON_CODE_FILES" value="true" />
     <option name="SUGGEST_IMPLICIT_HINTS" value="false" />
   </component>
 </application>
