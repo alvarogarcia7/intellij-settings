@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>197</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -79,6 +79,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'MemoizedFibonacciTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'QueueApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'QueueApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RunGoldenMasterTest'">
@@ -145,6 +153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'QueueApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'QueueApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'RomanNumeralsPrope...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -183,6 +199,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'MemoizedFibonacciTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'QueueApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'QueueApplication'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WithAnnotationDecoratedAdderTest.with_decoration_the_result_is_doubled'">
