@@ -270,7 +270,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'QueueApplication'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'WithAnnotationDecoratedAdderTest.with_decoration_the_result_is_doubled'">
