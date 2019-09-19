@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>40</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'bank-kata'">
@@ -326,6 +326,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in aspects'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in com.example.kata.fizzbuzz.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in com.example.kata.fizzbuzz.test'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -534,7 +542,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
