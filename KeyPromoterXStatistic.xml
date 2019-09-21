@@ -521,6 +521,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'trip-service-kata [clean]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'trip-service-kata [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop ':bootRun'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
