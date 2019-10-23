@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1200</Count>
+          <Count>1204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -463,6 +463,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
           <Count>35</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in Initial-Fitness-Club-1'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in Initial-Fitness-Club-1'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in aspects'">
