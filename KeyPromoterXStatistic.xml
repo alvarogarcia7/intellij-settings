@@ -225,6 +225,14 @@
           <Count>85</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild ...Rental-1-Rental-Fee'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild ...Rental-1-Rental-Fee'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rebuild Module 'bank-kata'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -470,7 +478,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in Fitness-Club'">
