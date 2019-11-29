@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1428</Count>
+          <Count>1429</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -375,6 +375,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FulfillmentApplicationTests.create_a_shipping'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GameRunner'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GameRunner'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GameRunner.keep_blinker_oscillating'">
