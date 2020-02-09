@@ -694,7 +694,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in Fitness-Club'">
@@ -918,6 +918,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'trip-service-kata [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Inspection by Name...">
+        <Item>
+          <IdeaActionID>RunInspection</IdeaActionID>
+          <ShortCut>'⌥⇧⌘I'</ShortCut>
+          <Description>Run Inspection by Name...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
