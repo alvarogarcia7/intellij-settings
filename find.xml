@@ -13,10 +13,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.sql</mask>
     <mask>*Contro*.java</mask>
     <mask>*.feature</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
