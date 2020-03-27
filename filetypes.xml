@@ -5,6 +5,7 @@
       <mapping pattern="Lists" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping ext="source" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
